@@ -1,0 +1,72 @@
+
+
+.carousel {
+    height: "28%";
+    width: "auto";
+  }
+  .carousel img {
+    height: 28rem;
+    width: 100%;
+  }
+  .main{
+    margin:50px auto;
+  }
+  .main2{
+    margin:50px auto;
+  }
+  /* .card1{
+    height: 50%;
+  } */
+  .card-img-top1{
+    height: 86%;
+  }
+  .flex container{
+    display: flex;
+    width: auto;
+    height: 50%;
+  }
+  /* .flex1{
+    margin: 5% auto;
+  } */
+  .count{
+    width: auto;
+    text-align: center;
+    margin: 50px auto;
+    border: 1px solid gray;
+    display: flex;
+
+  }
+  .images{
+    width: 40px;
+    box-shadow: 0 0 1px;
+  }
+  .go{
+    background-color:green;
+    width:50%;
+    border:1px solid green;
+    
+  }
+  .list{
+    line-height: 2.5;
+  }
+  .box{
+    /* height: 50%; */
+    width: 76%;
+    background-color: black;
+    text-align: left;
+    margin: 0px auto;
+  
+  }
+  .box p{
+    line-height: 0.8;
+  }
+  .box button{
+    float: right;
+    background-color: green;
+    border-radius: 25px;
+    color: white;
+    margin: 5% 5%;
+    border:1px solid green;
+    
+  }
+  
